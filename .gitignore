@@ -1,0 +1,23 @@
+# History
+.history
+
+# Node
+node_modules/
+
+# Hardhat
+cache/
+abi/
+artifacts/
+
+# Deployments
+deployments/hardhat
+
+# Typechain
+typechain/
+
+# Env
+.env
+
+# Coverage
+coverage/
+coverage.json
